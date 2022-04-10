@@ -6,8 +6,6 @@ TL;DR: Don't use this as anything other than reference.
 
 ## Running:
 
-First,
-
 ```sh
 # Install dependencies
 yarn
