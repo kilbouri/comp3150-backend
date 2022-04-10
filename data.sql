@@ -2579,7 +2579,7 @@ INSERT INTO FacilityTransaction VALUES (55, 13799.00, 0, 'See operations log #52
 INSERT INTO FacilityTransaction VALUES (56, 10751.00, 1, 'See operations log #376', '2021-05-14', 1);
 INSERT INTO FacilityTransaction VALUES (57, 63451.00, 1, 'See operations log #378', '2021-05-15', 0);
 INSERT INTO FacilityTransaction VALUES (58, 18464.00, 1, 'See operations log #515', '2021-04-25', 0);
-INSERT INTO FacilityTransaction VALUES (59, 76470.00, 1, 'See operations log #527', '2021-09-11', 2);
+INSERT INTO FacilityTransaction VALUES (59, 396470.00, 1, 'See operations log #527', '2021-09-11', 2);
 INSERT INTO FacilityTransaction VALUES (60, 54160.00, 1, 'See operations log #398', '2021-08-25', 3);
 INSERT INTO FacilityTransaction VALUES (61, 26248.00, 0, 'See operations log #463', '2021-11-07', 3);
 INSERT INTO FacilityTransaction VALUES (62, 85943.00, 0, 'See operations log #448', '2021-08-21', 3);
